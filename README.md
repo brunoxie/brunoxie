@@ -7,4 +7,4 @@ With a strong background in building data infrastructures, I've integrated advan
 I'm skilled in using tools like SQL, Python, dbt, Airflow, Snowflake, AWS, Tableau, and Looker to optimize data pipelines and deliver actionable insights.
 
 Find out more about me:
-- 💬 [Linkedin](https://www.linkedin.com/in/brunoxie/))
+- 💬 [Linkedin](https://www.linkedin.com/in/brunoxie/)
