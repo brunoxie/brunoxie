@@ -1,4 +1,4 @@
-### Hi there 👋 I am Bruno.
+### Hi there 👋 I am Bruno. Here is a little bit about myself:
 
 * 💪 __My passion__: I am deeply passionate about leveraging data engineering and analytics to uncover impactful business insights that yield tangible results. My commitment lies in empowering organizations through data-driven decision makings that foster meaningful impacts.
 
