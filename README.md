@@ -1,10 +1,10 @@
 ### Hi there 👋 I am Bruno.
 
-I have strong passion for leveraging data engineering and analytics to drive impactful business insights. Currently, I work as a Data Operations Analyst at Acumen, LLC, where I manage and optimize complex ETL pipelines, ensure data integrity, and support critical healthcare analytics projects.
+- My passion 💪: I am deeply passionate about harnessing data engineering and analytics to uncover impactful business insights that yield tangible results. My commitment lies in empowering organizations through data-driven strategies that foster meaningful improvements and drive strategic initiatives.
 
-With a strong background in building data infrastructures, I've integrated advanced data validation frameworks and automated workflows. My work spans multiple domains, from healthcare analytics to sports performance tracking.
+- My current work 💻: Currently I serve as a Data Operations Analyst at Acumen LLC, a healthcare research company that provides analytical support for government clients. In my daily work, I manage and optimize complex ETL pipelines and conduct healthcare data analysis.
 
-I'm skilled in using tools like SQL, Python, dbt, Airflow, Snowflake, AWS, Tableau, and Looker to optimize data pipelines and deliver actionable insights.
+- Tools I used 🖌️: I am proficient in using a variety of tools such as SQL, programming languages (Python, R, SAS), data modeling tool (dbt), data orchestration tool (Airflow), data warehouse (Snowflake), cloud platform (AWS), BI tool( Tableau and Looker).
 
 Find out more about me:
 - 💬 [Linkedin](https://www.linkedin.com/in/brunoxie/)
