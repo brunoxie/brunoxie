@@ -10,4 +10,6 @@
   * [AWS Certified Cloud Practitioner](https://www.credly.com/badges/64c7c8e8-3957-41f6-bb03-467e7313573f/public_url)
   * [Snowflake SnowPro Core Certification](https://achieve.snowflake.com/e065bf74-f13f-4b56-8bf6-a7e0aa596d7f#gs.f8l7ft)
 
+* 😆 __My little hobbies aside from work__: music 🎵, video gaming 🎮, hiking 🥾, work out 🏋️
+
 * Find out more about me: 💬 [Linkedin](https://www.linkedin.com/in/brunoxie/)
