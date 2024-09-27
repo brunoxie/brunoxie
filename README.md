@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Bruno.
 
-* 💪 __My passion__: I am deeply passionate about harnessing data engineering and analytics to uncover impactful business insights that yield tangible results. My commitment lies in empowering organizations through data-driven strategies that foster meaningful improvements and drive strategic initiatives.
+* 💪 __My passion__: I am deeply passionate about leveraging data engineering and analytics to uncover impactful business insights that yield tangible results. My commitment lies in empowering organizations through data-driven decision makings that foster meaningful impacts.
 
 * 💻 __My current work__: Currently I serve as a Data Operations Analyst at Acumen LLC, a healthcare research company that provides analytical support for government clients. In my daily work, I manage and optimize complex ETL pipelines and conduct healthcare data analysis.
 
