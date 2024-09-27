@@ -12,4 +12,4 @@
 
 * 😆 __My little hobbies aside from work__: music 🎵, video gaming 🎮, hiking 🥾, work out 🏋️
 
-* Find out more about me: 💬 [Linkedin](https://www.linkedin.com/in/brunoxie/)
+* 💬 Don't hestitate to connect me: [Linkedin](https://www.linkedin.com/in/brunoxie/)
