@@ -4,7 +4,7 @@
 
 * 💻 __My current work__: Currently I serve as a Data Operations Analyst at Acumen LLC, a healthcare research company that provides analytical support for government clients. In my daily work, I manage and optimize complex ETL pipelines and conduct healthcare data analysis.
 
-* 🖌️ __Tools I used__: I am proficient in using a variety of tools such as SQL, programming languages (_Python, R, SAS_), data modeling tool (_dbt_), data orchestration tool (_Airflow_), data warehouse (_Snowflake_), cloud platform (_AWS_), and BI tool (_Tableau and Looker_).
+* 🖌️ __Tools I use__: I am proficient in using a variety of tools such as SQL, programming languages (_Python, R, SAS_), data modeling tool (_dbt_), data orchestration tool (_Airflow_), data warehouse (_Snowflake_), cloud platform (_AWS_), and BI tool (_Tableau and Looker_).
 
 * 📜 __My certifications__:
   * [AWS Certified Cloud Practitioner](https://www.credly.com/badges/64c7c8e8-3957-41f6-bb03-467e7313573f/public_url)
